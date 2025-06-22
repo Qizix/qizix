@@ -16,7 +16,7 @@ An interactive web tool that recognizes hand-drawn sketches live in the browser.
 ### 😄 [Real-Time Emotion Detector](https://github.com/Qizix/cnn-emotion-classifier)  
 AI model that classifies emotions from your face using webcam input in real time.  
 **Tech:** OpenCV, Keras, Streamlit (UI in progress)  
-→ Works live on your camera. Currently supports basic emotions like happy, sad, angry.
+→ Works live on your camera. Supports basic emotions like happy, sad, angry, disgust, fear, surprise, neutral, content.
 
 ---
 
