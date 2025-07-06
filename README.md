@@ -13,6 +13,13 @@ An interactive web tool that recognizes hand-drawn sketches live in the browser.
 
 ---
 
+### 🎨 [ML Dataset Auto Analyzer](https://github.com/Qizix/AutoInsightsML) 
+AutoinsightsML is a fast, lightweight tool for quick CSV table analysis and simple data tweaks. It is designed for Machine Learning practitioners, data analysts, and students who need rapid insights without heavy overhead.
+**Tech:** Python, Streamlit, Pandas 
+→ Upload a CSV file and see the full dataset analysis
+
+---
+
 ### 😄 [Real-Time Emotion Detector](https://github.com/Qizix/cnn-emotion-classifier)  
 AI model that classifies emotions from your face using webcam input in real time.  
 **Tech:** OpenCV, Keras, Streamlit (UI in progress)  
