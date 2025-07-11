@@ -1,4 +1,4 @@
-# 👋 Hi, I'm QZX
+# 👋 Hi, I'm Yaroslav
 
 I'm a Machine Learning student passionate about building real-time AI tools with tangible impact. I turn theory into practice by shipping small but functional AI applications.
 
